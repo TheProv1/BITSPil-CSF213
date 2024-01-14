@@ -18,7 +18,7 @@ CSF213 - OOPS
 For Reference Only 
 </pre>
 
-<br>This repository encapsulates everything covered in BITS Pilani's OOPS course. By the end of this semester, this repo will have been updated with notes from all lectures, as well as resources for lab work, practice assignments, and past papers.
+<br>This repository encapsulates everything covered in BITS Pilani's OOP course. By the end of this semester, this repo will have been updated with notes from all lectures, as well as resources for lab work, practice assignments, and past papers.
 
 <br>If you want to collaborate, open a PR and add to the notes taken. Please try to be as concise as possible.
 
